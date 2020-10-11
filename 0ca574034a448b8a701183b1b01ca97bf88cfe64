@@ -1,0 +1,1 @@
+{"jobID":"034162c8-6131-9c84-047f-2db7d2f29998","spec":{"type":"policy","cause":{"Message":"","User":"Edwin Sanchez \u003cedwinalex035@gmail.com\u003e"},"spec":{"lasample:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
